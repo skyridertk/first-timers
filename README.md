@@ -152,6 +152,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, playing sports and running.
 
+### Ian Kahwai
+- I'm a software developer
+- I love to spend my time programming and gaming
+- I also love to read scifi novels
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
